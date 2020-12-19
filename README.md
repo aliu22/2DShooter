@@ -1,5 +1,7 @@
 a simple 2D shooter game with collision detection, bullet management, user input
 
+Made with java and swing 
+
 Download game.jar to play!
 
 WASD to move
